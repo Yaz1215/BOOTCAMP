@@ -1,0 +1,16 @@
+.tabla{
+    border: 2px rgb(243, 16, 16);
+    border-style: solid;
+    width:100px;
+    height:100px;
+}
+
+.Carol{
+    background-color:rgb(232, 235, 101);
+    height: 40px;
+}
+
+.centrado{
+    text-align:center;
+}
+

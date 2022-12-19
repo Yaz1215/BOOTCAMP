@@ -1,0 +1,57 @@
+body{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /*tipografía*/
+background-color:rgb(134, 215, 235);
+
+}
+
+.container{
+
+    background-color: rgb(243, 95, 120);
+    width:500px; /*ancho*/
+    height:500px; /*alto*/
+    margin:100px auto;
+    border-radius:10px; /* es para que no termine en punta si no tenga un cosito la caja*/
+    padding: 20px; /* Para que las letras se alejen del borde poq estaba muy pegado*/
+    box-shadow:10px 10px 10px rgb(84, 219, 50); /*sommbra en todos los lados*/
+}
+
+.card{
+
+    background-color:rgb(245, 242, 105);
+    height:470px;
+}
+
+.pregunta_nombre{
+
+    text-align:center; /* texto en el centro*/ 
+    font-size: 25px; /*tamaño a la letra*/
+}
+
+.pregunta_contenido{
+
+     text-align:center;
+}
+
+.pregunta_enunciado{
+
+    background-color:rgb(84, 219, 50);
+    height: 150px;
+}
+
+.preguntas_alternativas{
+
+background-color:rgb(84, 219, 59);
+height:210px;
+line-height: 40px;
+}
+
+button{
+    display: block;
+    width: 300px;
+    font-size: 15px;
+    margin: 5px auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+

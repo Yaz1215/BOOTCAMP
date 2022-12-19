@@ -1,0 +1,44 @@
+body{
+font-family: sans-serif;
+background-image: url("https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/04/kumiko-shimizu-1suwecgz5ks-unsplash-scaled.jpeg?fit=2560%2C1707&quality=50&strip=all&ssl=1"
+);
+}
+
+ul{
+   outline:2px rgb(104, 213, 240);
+   outline-style: solid; 
+   list-style:none ;
+   padding-left:0;
+   width:150px;
+   line-height: 26px;
+   background-color:white 
+}
+
+a{
+   text-decoration: none; 
+   color:rgb(60, 182, 77);
+   padding-left:21px;
+   display:block;
+}
+
+a:hover{
+    background-color: rgb(245, 189, 231);
+}
+
+a:active{
+    background-color:black;
+    color:rgb(153, 170, 245)
+}
+
+ul li:first-child{
+    background-color:rgb(226, 117, 117);
+}
+
+ul li:first-child a{
+    color:white
+}
+
+ul li:first-child a:hover{
+color:rgb(228, 68, 68)
+}
+

@@ -1,0 +1,28 @@
+
+h3{
+    color:rgb(142, 24, 252);
+    background-color: rgb(233, 129, 198);
+    text-decoration: underline overline; /*overline, underline, line-through, underline overline*/
+}
+
+h1{
+    color:rgb(84, 119, 224);
+    background-color:coral;
+}
+
+.ejemplo{
+    background-color: rgb(36, 255, 255);
+    width: 500px;
+    height:300px;
+border: 10px yellow ;
+border-style: groove dashed double  dotted ; /*solid,otted,dashed,double */
+margin-left: 400px;
+padding: 50px;
+text-align:center; /* center, justify,left,right */
+outline: 10px green;
+outline-style: dashed;
+}
+
+titulos{
+    color:rgb(49, 209, 156)
+}
